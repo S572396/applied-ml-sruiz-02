@@ -140,14 +140,14 @@ ipywidgets
 numpy
 
 # Data manipulation and analysis (built on numpy, 10-20 MB)
-pandas
+pip install pandas
 
 # ======================================================
 # VISUALIZATION
 # ======================================================
 
 # Core library for creating visualizations (~30 MB)
-matplotlib
+pip install matplotlib
 
 # Statistical data visualization library built on matplotlib (~2-5 MB)
 seaborn
@@ -185,6 +185,9 @@ seaborn
 # Uncomment it the SECOND time you run pip install from requirements.txt
 # Otherwise, it's too much work and takes too long. Two steps is better. 
 # scikit-learn
+# lab 02:
+-!python -m pip install --upgrade pip
+!python -m pip install seaborn pandas matplotlib scikit-learn notebook ipykernel
 
 # ======================================================
 # NATURAL LANGUAGE PROCESSING (NLP) - CAN BE VERY LARGE

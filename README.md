@@ -34,5 +34,9 @@ Each lab project will be completed in its own folder.
    - ml01.py - working script with just the code
    - README.md - instructions - modify this to present your lab project
 
+   ## Requirements
+   -!python -m ensurepip --default-pip
+!python -m pip install --upgrade pip
+
 
 
