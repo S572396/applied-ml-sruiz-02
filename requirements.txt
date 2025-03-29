@@ -97,6 +97,7 @@
 # ======================================================
 # ESSENTIAL TOOLS - UNCOMMENT THE NECESSARY ONES BELOW
 # ======================================================
+# for notebook select python verison then restart Kernel
 
 # Up-to-date package management tools
 pip
